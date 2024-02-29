@@ -2,7 +2,7 @@ repo_name: AlexcastroDev/redux-or-tanstack-streaming-video
 report_id: 90b8a61d4f9525a1ca32d70c47a11511
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:11:54+00:00'
+timestamp: '2024-02-29T19:22:34+00:00'
 requested_by: AlexcastroDev
 provider: github
 branch: main
@@ -41,7 +41,7 @@ tools:
   detection_source_url: https://github.com/AlexcastroDev/redux-or-tanstack-streaming-video
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.4.10
   open_source: true
